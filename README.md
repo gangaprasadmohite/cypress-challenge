@@ -1,4 +1,4 @@
-# cypress-challenge
+# Cypress-challenge
 
 Clone this repository.
 
@@ -6,6 +6,6 @@ Clone this repository.
 
 Install all the dependecies with `npm install`.
 
-Open cypress test runner using `npx cypress open`
+Open cypress test runner using `npx cypress open`.
 
 Run the test.

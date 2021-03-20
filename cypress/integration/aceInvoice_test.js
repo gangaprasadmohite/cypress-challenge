@@ -3,7 +3,7 @@ describe("AceInvoice Test", () => {
     cy.visit("https://www.aceinvoice.com/");
     cy.contains("Sign up for FREE").click();
     cy.get('input[placeholder="Email Address"]').type(
-      "gangaprasadmohite-march-20-2021-2900@example.com"
+      "gangaprasadmohite-march-20-2021-2146@example.com"
     );
     cy.contains("Get Started").click();
     cy.get('input[name="password"]').type("welcome1234!");
